@@ -1,0 +1,560 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25843315300081,
+                    -3.7850730208167844
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-001",
+                "damage_actual": 87.15,
+                "damage_gwr_pred": 87.5,
+                "local_beta_age": 4.0043
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24378511451202,
+                    -3.788581436120241
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-002",
+                "damage_actual": 87.38,
+                "damage_gwr_pred": 88.25,
+                "local_beta_age": 3.7087
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.23842462616044,
+                    -3.793668280413345
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-003",
+                "damage_actual": 89.43,
+                "damage_gwr_pred": 88.09,
+                "local_beta_age": 3.6384
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.26331230502176,
+                    -3.7809806424693546
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-004",
+                "damage_actual": 86.18,
+                "damage_gwr_pred": 84.45,
+                "local_beta_age": 4.0486
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24092044586304,
+                    -3.796779840846449
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-005",
+                "damage_actual": 72.58,
+                "damage_gwr_pred": 65.11,
+                "local_beta_age": 3.7406
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2628484843455,
+                    -3.794318177986528
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-006",
+                "damage_actual": 61.89,
+                "damage_gwr_pred": 67.34,
+                "local_beta_age": 4.1582
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2606112038716,
+                    -3.7974948300226474
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-007",
+                "damage_actual": 75.06,
+                "damage_gwr_pred": 70.19,
+                "local_beta_age": 4.1602
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25041707397986,
+                    -3.800744384300734
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-008",
+                "damage_actual": 84.0,
+                "damage_gwr_pred": 82.03,
+                "local_beta_age": 4.0344
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25578882837112,
+                    -3.799125239381673
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-009",
+                "damage_actual": 84.88,
+                "damage_gwr_pred": 81.18,
+                "local_beta_age": 4.1133
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25200999072106,
+                    -3.7856490613436664
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-010",
+                "damage_actual": 81.58,
+                "damage_gwr_pred": 87.77,
+                "local_beta_age": 3.8714
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2603373968425,
+                    -3.7924532354157505
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-011",
+                "damage_actual": 92.69,
+                "damage_gwr_pred": 91.72,
+                "local_beta_age": 4.1137
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.25267013281312,
+                    -3.7922045605393704
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-012",
+                "damage_actual": 69.0,
+                "damage_gwr_pred": 69.07,
+                "local_beta_age": 3.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24957078364649,
+                    -3.789180071292186
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-013",
+                "damage_actual": 80.86,
+                "damage_gwr_pred": 81.71,
+                "local_beta_age": 3.8573
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.26046675013738,
+                    -3.791353052980892
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-014",
+                "damage_actual": 74.67,
+                "damage_gwr_pred": 76.01,
+                "local_beta_age": 4.1051
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24186930797677,
+                    -3.770657805933951
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-015",
+                "damage_actual": 80.61,
+                "damage_gwr_pred": 81.3,
+                "local_beta_age": 3.5433
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29790752151831,
+                    -3.8310061651492777
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-016",
+                "damage_actual": 33.44,
+                "damage_gwr_pred": 37.11,
+                "local_beta_age": 3.401
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29772744086696,
+                    -3.831098429563294
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-017",
+                "damage_actual": 21.85,
+                "damage_gwr_pred": 18.17,
+                "local_beta_age": 3.4053
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.28560084568224,
+                    -3.833948291607599
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-018",
+                "damage_actual": 38.32,
+                "damage_gwr_pred": 38.48,
+                "local_beta_age": 3.7523
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.30420532220465,
+                    -3.8255855675624573
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-019",
+                "damage_actual": 37.81,
+                "damage_gwr_pred": 36.7,
+                "local_beta_age": 3.293
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.3076046613446,
+                    -3.834550217244476
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-020",
+                "damage_actual": 32.34,
+                "damage_gwr_pred": 34.17,
+                "local_beta_age": 3.0119
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.30208865854001,
+                    -3.815030682809929
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-021",
+                "damage_actual": 28.15,
+                "damage_gwr_pred": 37.17,
+                "local_beta_age": 3.6179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.31005565369529,
+                    -3.8189544101174837
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-022",
+                "damage_actual": 25.58,
+                "damage_gwr_pred": 22.94,
+                "local_beta_age": 3.2069
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.30434757697051,
+                    -3.8259705639526054
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-023",
+                "damage_actual": 28.22,
+                "damage_gwr_pred": 27.19,
+                "local_beta_age": 3.2787
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29516485933236,
+                    -3.8203779688919526
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-024",
+                "damage_actual": 38.5,
+                "damage_gwr_pred": 40.88,
+                "local_beta_age": 3.7516
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.30208705615648,
+                    -3.8126770253615296
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-025",
+                "damage_actual": 31.17,
+                "damage_gwr_pred": 27.49,
+                "local_beta_age": 3.6636
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.28943013067891,
+                    -3.8450208326543693
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-026",
+                "damage_actual": 22.6,
+                "damage_gwr_pred": 21.13,
+                "local_beta_age": 3.3313
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.28816696049685,
+                    -3.836881312356952
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-027",
+                "damage_actual": 36.79,
+                "damage_gwr_pred": 40.46,
+                "local_beta_age": 3.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29680331410556,
+                    -3.8292322919645536
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-028",
+                "damage_actual": 45.82,
+                "damage_gwr_pred": 47.11,
+                "local_beta_age": 3.4865
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2949003322159,
+                    -3.828358749376545
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-029",
+                "damage_actual": 40.86,
+                "damage_gwr_pred": 42.34,
+                "local_beta_age": 3.5787
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29215820609224,
+                    -3.8423733252738894
+                ]
+            },
+            "properties": {
+                "layer": "GWR_Public_Asset",
+                "id": "ASET-030",
+                "damage_actual": 38.8,
+                "damage_gwr_pred": 37.52,
+                "local_beta_age": 3.3145
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.26319017986532,
+                    -3.79846955617406
+                ]
+            },
+            "properties": {
+                "layer": "Optimal_RF_Tower_KDE",
+                "id": "RF-KDE-TOWER-01",
+                "kde_intensity": 0.0519
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.27942213728663,
+                    -3.8196445282687077
+                ]
+            },
+            "properties": {
+                "layer": "Optimal_RF_Tower_KDE",
+                "id": "RF-KDE-TOWER-02",
+                "kde_intensity": 0.0422
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.29838464217615,
+                    -3.8219852793118188
+                ]
+            },
+            "properties": {
+                "layer": "Optimal_RF_Tower_KDE",
+                "id": "RF-KDE-TOWER-03",
+                "kde_intensity": 0.0249
+            }
+        }
+    ]
+}
